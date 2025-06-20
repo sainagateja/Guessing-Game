@@ -6,13 +6,13 @@ A fun, interactive **Word Guessing Game** built using **HTML**, **CSS**, and **J
 
 ## Features
 
-- 🧠 Random word with a helpful **hint**
-- 🔡 Guess letters one by one
-- ✅ Reveals correct guesses instantly
-- 🚫 Prevents repeated guesses
-- 🎉 Win message when the full word is revealed
-- 🔄 Restart button to try a new word
-- 📱 Responsive and minimal design
+-  Random word with a helpful **hint**
+-  Guess letters one by one
+-  Reveals correct guesses instantly
+-  Prevents repeated guesses
+-  Win message when the full word is revealed
+-  Restart button to try a new word
+-  Responsive and minimal design
 
 ---
 
