@@ -36,7 +36,7 @@ A fun, interactive **Word Guessing Game** built using **HTML**, **CSS**, and **J
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ├── Guessing Game.html # Main HTML structure
 ├── Guessing Game.css # Styling for the game
